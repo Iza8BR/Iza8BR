@@ -17,4 +17,5 @@
 <a href="https://github.com/Iza8BR/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Iza8BR" />
 </a>
+<git config --global=izabeles390@gmail.com/>
 
