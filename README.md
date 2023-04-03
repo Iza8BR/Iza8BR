@@ -2,9 +2,9 @@
 
 
 - 👨‍💻 Sou formada em R.H
-- 
+
 - 📚 Estou estudando android
-- 
+
 - 💡 Gosto de aprender coisas novas! 
 
 
