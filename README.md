@@ -4,7 +4,7 @@
 - 👨‍💻 Sou formada em R.H
 - 📚 Estou estudando android
 - 💡 Gosto de aprender coisas novas! 
--->
+
 
 <a href="https://github.com/Iza8BR/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iza8BR&show_icons=true&theme=gotham" />
