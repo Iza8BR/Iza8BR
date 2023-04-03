@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá! Me chamo Izabele Ferreira! 👋
 
-<!--
-**Iza8BR/Iza8BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👨‍💻 Sou formada em R.H
+- 📚 Estou estudando android
+- 💡 Gosto de aprender coisas novas! 
 -->
+
+<a href="https://github.com/Iza8BR/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iza8BR&show_icons=true&theme=gotham" />
+</a>
+
+<a href="https://github.com/Iza8BR/top-langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iza8BR&hide_progress=true&theme=gotham" />
+</a>
+
+<a href="https://github.com/Iza8BR/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Iza8BR" />
+</a>
+
